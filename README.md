@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=30F7DB&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Welcome+to+My+LeetCode+Solutions+Repo!;Tracking+Daily+DSA+Progress+using+Java%2C+Python%2C+and+C%2B%2B+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=30F7DB&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Welcome+to+My+LeetCode+Solutions+Repo!;Tracking+Daily+DSA+Progress+using+C%2B%2B+!" alt="Typing SVG" />
 </p>
 
 ---
