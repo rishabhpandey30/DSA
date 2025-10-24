@@ -76,27 +76,3 @@ This repository is more than just code — it’s a public commitment to persona
 ### 🔗 Connect with Me
 
 - 📘 [LeetCode Profile](https://leetcode.com/u/rishabhpandey3011/)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
-## Two Pointers
-|  |
-| ------- |
-| [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
-## Sorting
-|  |
-| ------- |
-| [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
-## Merge Sort
-|  |
-| ------- |
-| [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
-<!---LeetCode Topics End-->
