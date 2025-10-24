@@ -2,7 +2,7 @@
 # 🚀 LeetCode Journey 💻
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages- C%20C++-informational?style=flat-square&logo=leetcode&color=brightgreen" alt="Languages">
+  <img src="https://img.shields.io/badge/Languages-%20C++-informational?style=flat-square&logo=leetcode&color=brightgreen" alt="Languages">
   <img src="https://img.shields.io/badge/Goal-Solve%20DSA%20Daily-orange?style=flat-square&logo=target">
 </p>
 
