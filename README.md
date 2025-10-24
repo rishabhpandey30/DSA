@@ -1,4 +1,5 @@
-# 🚀 LeetCode Journey of rishabhpandey30 💻
+
+# 🚀 LeetCode Journey 💻
 
 <p align="center">
   <img src="https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7C%20C++-informational?style=flat-square&logo=leetcode&color=brightgreen" alt="Languages">
@@ -24,7 +25,7 @@ This repository contains all the LeetCode problems I've solved, written in **Jav
 ### 🔍 Real-Time LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/rishabhpandey30?ext=activity&theme=unicorn" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/rishabhpandey3011?ext=activity&theme=unicorn" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -59,6 +60,7 @@ This repository contains all the LeetCode problems I've solved, written in **Jav
 
 ---
 
+
 ### 🙌 Final Word
 
 This repository is more than just code — it’s a public commitment to personal growth and consistency.
@@ -73,10 +75,4 @@ This repository is more than just code — it’s a public commitment to persona
 
 ### 🔗 Connect with Me
 
-- 📘 [LeetCode Profile](https://leetcode.com/rishabhpandey30/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rishabhpandey30/) 
-
-Notes:
-- Update the LinkedIn URL if you use a different handle.
-- If you'd like I can customize the badges (theme, languages shown, or account usernames) further.
-<!---LeetCode Topics End-->
+- 📘 [LeetCode Profile](https://leetcode.com/u/rishabhpandey3011/)
