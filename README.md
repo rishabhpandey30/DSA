@@ -76,3 +76,19 @@ This repository is more than just code — it’s a public commitment to persona
 ### 🔗 Connect with Me
 
 - 📘 [LeetCode Profile](https://leetcode.com/u/rishabhpandey3011/)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishabhpandey30/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishabhpandey30/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishabhpandey30/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics End-->
