@@ -27,15 +27,6 @@ This repository contains all the LeetCode problems I've solved, written in **Jav
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rishabhpandey3011?ext=activity&theme=unicorn" alt="LeetCode Stats" />
 </p>
-
----
-
-### 📊 Language Usage
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhpandey30&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages">
-</p>
-
 ---
 
 ### 🕓 Daily Problem Solving Streak
