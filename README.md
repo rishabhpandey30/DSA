@@ -91,4 +91,20 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishabhpandey30/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rishabhpandey30/DSA/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rishabhpandey30/DSA/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rishabhpandey30/DSA/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rishabhpandey30/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
