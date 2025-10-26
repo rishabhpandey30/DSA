@@ -50,7 +50,7 @@ public:
         ListNode* left =head;
         ListNode* right= middle->next;
         middle->next=nullptr;
-        left= sortList(left);
+        left= sortList(left);  
         right = sortList(right);
         return merge(left,right);
     }
