@@ -67,9 +67,6 @@ This repository is more than just code — it’s a public commitment to persona
 
 > _“Little by little, one travels far.” – J.R.R. Tolkien_
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="320" alt="LeetCode Animation" />
-</p>
 
 ---
 
