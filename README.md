@@ -71,6 +71,7 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/rishabhpandey30/DSA/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
