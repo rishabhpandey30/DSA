@@ -76,6 +76,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
 | [0142-linked-list-cycle-ii](https://github.com/rishabhpandey30/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
 ## Divide and Conquer
@@ -85,6 +86,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -94,4 +96,8 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/rishabhpandey30/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
