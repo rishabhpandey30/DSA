@@ -71,6 +71,7 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishabhpandey30/DSA/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/rishabhpandey30/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/rishabhpandey30/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishabhpandey30/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -128,6 +129,7 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishabhpandey30/DSA/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/rishabhpandey30/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 ## Binary Search
 |  |
 | ------- |
