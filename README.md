@@ -72,6 +72,7 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishabhpandey30/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rishabhpandey30/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/rishabhpandey30/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rishabhpandey30/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/rishabhpandey30/DSA/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishabhpandey30/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -90,6 +91,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rishabhpandey30/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -99,6 +101,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rishabhpandey30/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
@@ -154,4 +157,8 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rishabhpandey30/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
