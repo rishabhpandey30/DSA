@@ -37,20 +37,21 @@ public:
         // return result;
 
         // Method -2 : sliding window
+        int n= nums.size();
         sort(nums.begin(), nums.end());
-        int left = 0;
-        long curr = 0;
-        
-        for (int right = 0; right < nums.size(); right++) {
-            long target = nums[right];
-            curr += target;
-            
-            if ((right - left + 1) * target - curr > k) {
-                curr -= nums[left];
-                left++;
+        int l=0;
+        int result=0;
+        long currSum =0;
+        for(int i=0;i<n;i++){
+           long target = nums[i];
+            currSum+= target;
+           
+            if((i-l+1)*target-currSum >k){
+                currSum -= nums[l];
+                l++;
             }
+            result = max(result, i-l+1);
         }
-        
-        return nums.size() - left;
+        return result;
     }
 };
