@@ -113,6 +113,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0160-intersection-of-two-linked-lists](https://github.com/rishabhpandey30/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rishabhpandey30/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabhpandey30/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -126,6 +127,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2047-find-a-peak-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rishabhpandey30/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabhpandey30/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -161,6 +163,7 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -178,4 +181,12 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [2047-find-a-peak-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/2047-find-a-peak-element-ii) |
+## Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
