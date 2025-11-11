@@ -84,6 +84,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rishabhpandey30/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/rishabhpandey30/DSA/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishabhpandey30/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -97,6 +98,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rishabhpandey30/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
@@ -119,6 +121,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rishabhpandey30/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
