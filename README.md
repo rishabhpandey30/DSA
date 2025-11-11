@@ -99,6 +99,7 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- |
 | [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Merge Sort
 |  |
@@ -111,6 +112,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0138-copy-list-with-random-pointer](https://github.com/rishabhpandey30/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/rishabhpandey30/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishabhpandey30/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rishabhpandey30/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabhpandey30/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -118,6 +120,7 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
+| [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/rishabhpandey30/DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rishabhpandey30/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -189,4 +192,8 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
