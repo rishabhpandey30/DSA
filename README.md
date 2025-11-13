@@ -148,6 +148,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Bit Manipulation
 |  |
 | ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/rishabhpandey30/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
@@ -206,4 +207,12 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Backtracking
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
