@@ -210,6 +210,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/rishabhpandey30/DSA/tree/master/0008-string-to-integer-atoi) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
