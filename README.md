@@ -87,6 +87,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0015-3sum](https://github.com/rishabhpandey30/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishabhpandey30/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/rishabhpandey30/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/rishabhpandey30/DSA/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishabhpandey30/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
@@ -127,6 +128,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0015-3sum](https://github.com/rishabhpandey30/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishabhpandey30/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/rishabhpandey30/DSA/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhpandey30/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
