@@ -114,6 +114,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishabhpandey30/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/rishabhpandey30/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/rishabhpandey30/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishabhpandey30/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -201,6 +202,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishabhpandey30/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
@@ -222,6 +224,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishabhpandey30/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/rishabhpandey30/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0022-generate-parentheses) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
