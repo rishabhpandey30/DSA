@@ -142,6 +142,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1646-kth-missing-positive-number](https://github.com/rishabhpandey30/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/2047-find-a-peak-element-ii) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishabhpandey30/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rishabhpandey30/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabhpandey30/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -151,6 +152,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0002-add-two-numbers](https://github.com/rishabhpandey30/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/rishabhpandey30/DSA/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/rishabhpandey30/DSA/tree/master/2050-count-good-numbers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishabhpandey30/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabhpandey30/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/rishabhpandey30/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
