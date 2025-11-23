@@ -214,6 +214,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0020-valid-parentheses) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -228,6 +229,7 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishabhpandey30/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/rishabhpandey30/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0022-generate-parentheses) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
