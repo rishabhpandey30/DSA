@@ -115,6 +115,7 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishabhpandey30/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/rishabhpandey30/DSA/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/rishabhpandey30/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/rishabhpandey30/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishabhpandey30/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -131,6 +132,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishabhpandey30/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rishabhpandey30/DSA/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/rishabhpandey30/DSA/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/rishabhpandey30/DSA/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhpandey30/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0152-maximum-product-subarray) |
