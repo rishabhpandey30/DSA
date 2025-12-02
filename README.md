@@ -98,6 +98,7 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rishabhpandey30/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +113,7 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rishabhpandey30/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0152-maximum-product-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhpandey30/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/rishabhpandey30/DSA/tree/master/0907-koko-eating-bananas) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rishabhpandey30/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -182,6 +185,7 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
 | [0907-koko-eating-bananas](https://github.com/rishabhpandey30/DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rishabhpandey30/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rishabhpandey30/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -253,4 +257,16 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishabhpandey30/DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhpandey30/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
