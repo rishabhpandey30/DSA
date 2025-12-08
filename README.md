@@ -165,6 +165,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0002-add-two-numbers](https://github.com/rishabhpandey30/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/rishabhpandey30/DSA/tree/master/0050-powx-n) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rishabhpandey30/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1925-count-square-sum-triples](https://github.com/rishabhpandey30/DSA/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/rishabhpandey30/DSA/tree/master/2050-count-good-numbers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishabhpandey30/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabhpandey30/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -283,4 +284,8 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rishabhpandey30/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/rishabhpandey30/DSA/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
