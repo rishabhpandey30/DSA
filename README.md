@@ -138,6 +138,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0031-next-permutation](https://github.com/rishabhpandey30/DSA/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/rishabhpandey30/DSA/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/rishabhpandey30/DSA/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/rishabhpandey30/DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhpandey30/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
@@ -174,6 +175,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rishabhpandey30/DSA/tree/master/0078-subsets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rishabhpandey30/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/rishabhpandey30/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -260,6 +262,7 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/rishabhpandey30/DSA/tree/master/0078-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
