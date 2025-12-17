@@ -136,6 +136,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishabhpandey30/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rishabhpandey30/DSA/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/rishabhpandey30/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/rishabhpandey30/DSA/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/rishabhpandey30/DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/rishabhpandey30/DSA/tree/master/0078-subsets) |
@@ -264,6 +265,7 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/rishabhpandey30/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/rishabhpandey30/DSA/tree/master/0078-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
