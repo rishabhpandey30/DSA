@@ -1,25 +1,24 @@
 class Solution {
 public:
+    
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> res;
-        vector<int> comb;
-        makeCombination(candidates, target, 0, comb, 0, res);
-        return res;        
+        vector<vector<int>> ans;
+        vector<int>res;
+        create(candidates, target, 0,0,ans,res);
+        return ans;
     }
 
-    void makeCombination(std::vector<int>& candidates, int target, int idx, vector<int>& comb, int total, vector<vector<int>>& res) {
-        if (total == target) {
-            res.push_back(comb);
+    void create(vector<int>& candidates, int target, int idx, int total, vector<vector<int>>& ans, vector<int>&res){
+        if(total == target){
+            ans.push_back(res);
             return;
         }
-
-        if (total > target || idx >= candidates.size()) {
+        if(total > target || idx >= candidates.size()){
             return;
         }
-
-        comb.push_back(candidates[idx]);
-        makeCombination(candidates, target, idx, comb, total + candidates[idx], res);
-        comb.pop_back();
-        makeCombination(candidates, target, idx + 1, comb, total, res);
+        res.push_back(candidates[idx]);
+        create(candidates, target, idx, total+candidates[idx], ans, res); // index isliye nhi bda rhe h kyu ki us element ko ham kitne baar bhi le sakte jase ki 2 ko 2 baar liya h
+        res.pop_back();
+        create(candidates, target, idx+1, total, ans, res);
     }
 };
