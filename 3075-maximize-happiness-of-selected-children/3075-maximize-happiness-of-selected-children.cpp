@@ -8,7 +8,13 @@ public:
             if(count>=k){
                 break;
             }
-            sum+=max(happiness[i]-count, 0);
+            int a = happiness[i]-count;
+            if(a<0){
+                sum+=0;
+            }
+            else{
+            sum+=a;
+            }
             count++;
         }
         return sum;
