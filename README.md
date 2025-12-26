@@ -144,6 +144,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0041-first-missing-positive](https://github.com/rishabhpandey30/DSA/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/rishabhpandey30/DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/rishabhpandey30/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rishabhpandey30/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhpandey30/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0152-maximum-product-subarray) |
@@ -252,6 +253,7 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishabhpandey30/DSA/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
 | [2047-find-a-peak-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/2047-find-a-peak-element-ii) |
 ## Stack
 |  |
@@ -274,6 +276,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishabhpandey30/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/rishabhpandey30/DSA/tree/master/0131-palindrome-partitioning) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rishabhpandey30/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -285,6 +288,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0039-combination-sum](https://github.com/rishabhpandey30/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rishabhpandey30/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/rishabhpandey30/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rishabhpandey30/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rishabhpandey30/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/rishabhpandey30/DSA/tree/master/0216-combination-sum-iii) |
@@ -318,4 +322,8 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/rishabhpandey30/DSA/tree/master/1925-count-square-sum-triples) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
