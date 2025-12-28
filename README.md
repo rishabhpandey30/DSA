@@ -142,6 +142,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0039-combination-sum](https://github.com/rishabhpandey30/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rishabhpandey30/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/rishabhpandey30/DSA/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/rishabhpandey30/DSA/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/rishabhpandey30/DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/rishabhpandey30/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
@@ -287,6 +288,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0022-generate-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rishabhpandey30/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rishabhpandey30/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/rishabhpandey30/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/rishabhpandey30/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rishabhpandey30/DSA/tree/master/0090-subsets-ii) |
