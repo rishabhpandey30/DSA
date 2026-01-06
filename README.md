@@ -349,4 +349,17 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
