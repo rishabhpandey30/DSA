@@ -350,10 +350,12 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- |
 | [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Tree
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -362,4 +364,5 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
