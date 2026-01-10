@@ -237,6 +237,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0131-palindrome-partitioning](https://github.com/rishabhpandey30/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rishabhpandey30/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rishabhpandey30/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/rishabhpandey30/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rishabhpandey30/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -300,6 +301,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0022-generate-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/rishabhpandey30/DSA/tree/master/0131-palindrome-partitioning) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rishabhpandey30/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rishabhpandey30/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
