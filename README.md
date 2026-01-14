@@ -181,6 +181,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [3074-apple-redistribution-into-boxes](https://github.com/rishabhpandey30/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rishabhpandey30/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishabhpandey30/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3454-separate-squares-ii](https://github.com/rishabhpandey30/DSA/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rishabhpandey30/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rishabhpandey30/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabhpandey30/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -231,6 +232,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1646-kth-missing-positive-number](https://github.com/rishabhpandey30/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/2047-find-a-peak-element-ii) |
+| [3454-separate-squares-ii](https://github.com/rishabhpandey30/DSA/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -341,6 +343,7 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
+| [3454-separate-squares-ii](https://github.com/rishabhpandey30/DSA/tree/master/3454-separate-squares-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -385,4 +388,8 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/rishabhpandey30/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/rishabhpandey30/DSA/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
