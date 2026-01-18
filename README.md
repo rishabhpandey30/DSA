@@ -175,6 +175,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1539-kth-missing-positive-number](https://github.com/rishabhpandey30/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/rishabhpandey30/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1646-kth-missing-positive-number](https://github.com/rishabhpandey30/DSA/tree/master/1646-kth-missing-positive-number) |
+| [1895-largest-magic-square](https://github.com/rishabhpandey30/DSA/tree/master/1895-largest-magic-square) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/rishabhpandey30/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/2047-find-a-peak-element-ii) |
@@ -264,6 +265,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhpandey30/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/rishabhpandey30/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1895-largest-magic-square](https://github.com/rishabhpandey30/DSA/tree/master/1895-largest-magic-square) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rishabhpandey30/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Heap (Priority Queue)
@@ -283,6 +285,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0054-spiral-matrix](https://github.com/rishabhpandey30/DSA/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/rishabhpandey30/DSA/tree/master/0085-maximal-rectangle) |
+| [1895-largest-magic-square](https://github.com/rishabhpandey30/DSA/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/rishabhpandey30/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/2047-find-a-peak-element-ii) |
 ## Stack
