@@ -196,6 +196,7 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishabhpandey30/DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/rishabhpandey30/DSA/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/rishabhpandey30/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/rishabhpandey30/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rishabhpandey30/DSA/tree/master/0066-plus-one) |
