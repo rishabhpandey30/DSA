@@ -99,6 +99,7 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rishabhpandey30/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
 ## Sorting
@@ -152,6 +153,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0041-first-missing-positive](https://github.com/rishabhpandey30/DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/rishabhpandey30/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabhpandey30/DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rishabhpandey30/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/rishabhpandey30/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/rishabhpandey30/DSA/tree/master/0078-subsets) |
@@ -251,6 +253,7 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishabhpandey30/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/rishabhpandey30/DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhpandey30/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/rishabhpandey30/DSA/tree/master/0131-palindrome-partitioning) |
