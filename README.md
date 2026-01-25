@@ -114,6 +114,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rishabhpandey30/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishabhpandey30/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishabhpandey30/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/rishabhpandey30/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rishabhpandey30/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -190,6 +191,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1895-largest-magic-square](https://github.com/rishabhpandey30/DSA/tree/master/1895-largest-magic-square) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/rishabhpandey30/DSA/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishabhpandey30/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2047-find-a-peak-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhpandey30/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishabhpandey30/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -307,6 +309,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishabhpandey30/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishabhpandey30/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishabhpandey30/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rishabhpandey30/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Matrix
 |  |
