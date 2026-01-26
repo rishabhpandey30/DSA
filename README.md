@@ -247,6 +247,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/rishabhpandey30/DSA/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
 | [0907-koko-eating-bananas](https://github.com/rishabhpandey30/DSA/tree/master/0907-koko-eating-bananas) |
@@ -440,4 +441,8 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishabhpandey30/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/rishabhpandey30/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
