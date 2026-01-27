@@ -309,6 +309,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0023-merge-k-sorted-lists](https://github.com/rishabhpandey30/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishabhpandey30/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/rishabhpandey30/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -450,4 +451,12 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rishabhpandey30/DSA/tree/master/0278-first-bad-version) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/rishabhpandey30/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/rishabhpandey30/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
