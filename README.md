@@ -103,6 +103,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0023-merge-k-sorted-lists](https://github.com/rishabhpandey30/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishabhpandey30/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
@@ -111,6 +112,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishabhpandey30/DSA/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishabhpandey30/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
 | [1200-minimum-absolute-difference](https://github.com/rishabhpandey30/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rishabhpandey30/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -170,6 +172,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0090-subsets-ii](https://github.com/rishabhpandey30/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhpandey30/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0152-maximum-product-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishabhpandey30/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/rishabhpandey30/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
@@ -307,6 +310,7 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rishabhpandey30/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishabhpandey30/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishabhpandey30/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/rishabhpandey30/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -459,4 +463,8 @@ This repository is more than just code — it’s a public commitment to persona
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/rishabhpandey30/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishabhpandey30/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
