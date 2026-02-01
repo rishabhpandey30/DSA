@@ -227,6 +227,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0029-divide-two-integers](https://github.com/rishabhpandey30/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/rishabhpandey30/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rishabhpandey30/DSA/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/rishabhpandey30/DSA/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabhpandey30/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rishabhpandey30/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rishabhpandey30/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -244,6 +245,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0029-divide-two-integers](https://github.com/rishabhpandey30/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/rishabhpandey30/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishabhpandey30/DSA/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/rishabhpandey30/DSA/tree/master/0231-power-of-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rishabhpandey30/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/rishabhpandey30/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -256,6 +258,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0021-merge-two-sorted-lists](https://github.com/rishabhpandey30/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rishabhpandey30/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/rishabhpandey30/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/rishabhpandey30/DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/rishabhpandey30/DSA/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/rishabhpandey30/DSA/tree/master/2050-count-good-numbers) |
 ## Binary Search
