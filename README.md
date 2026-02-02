@@ -145,6 +145,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rishabhpandey30/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rishabhpandey30/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/rishabhpandey30/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/rishabhpandey30/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rishabhpandey30/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishabhpandey30/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -208,6 +209,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishabhpandey30/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rishabhpandey30/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/rishabhpandey30/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/rishabhpandey30/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/rishabhpandey30/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rishabhpandey30/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishabhpandey30/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -328,6 +330,7 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rishabhpandey30/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabhpandey30/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/rishabhpandey30/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishabhpandey30/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/rishabhpandey30/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -339,6 +342,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1004-max-consecutive-ones-iii](https://github.com/rishabhpandey30/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishabhpandey30/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/rishabhpandey30/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rishabhpandey30/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Matrix
 |  |
