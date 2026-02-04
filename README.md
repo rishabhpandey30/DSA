@@ -221,6 +221,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rishabhpandey30/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabhpandey30/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3640-trionic-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3640-trionic-array-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
@@ -301,6 +302,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1458-max-dot-product-of-two-subsequences](https://github.com/rishabhpandey30/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/rishabhpandey30/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rishabhpandey30/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3640-trionic-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3640-trionic-array-ii) |
 ## Greedy
 |  |
 | ------- |
