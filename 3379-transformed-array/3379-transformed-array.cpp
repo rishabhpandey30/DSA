@@ -4,8 +4,8 @@ public:
         int n= nums.size();
         vector<int>r(n,0);
         for(int i=0;i<nums.size();i++){
-            int val = nums[i]%n;
-            int newIdx = (i+val)%n;
+            int shift = nums[i]%n;
+            int newIdx = (i+ shift)%n;
             if(newIdx < 0){
                 newIdx +=n;
             }
