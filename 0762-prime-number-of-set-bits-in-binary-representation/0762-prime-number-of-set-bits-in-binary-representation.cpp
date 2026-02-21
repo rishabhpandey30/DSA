@@ -7,13 +7,10 @@ public:
         }
         for(int i=2;i<val;i++){
             if(val%i==0){
-                count++;
+                return false;
             }
         }
-        if(count ==0){
-            return true;
-        }
-        return false;
+        return true;
     }
     int countSetBit(int num){
        
@@ -26,7 +23,16 @@ public:
             num = num >> 1;
         }
         return count;
+
+
+        // Brian Kernighan Algorithm  -> use to count the set bit
+        // while(n){
+        //  n = n & (n - 1);
+        // count++;
+        // }
+
     }
+
     int countPrimeSetBits(int left, int right) {
         int ans =0;
         for(int i = left ;i<=right;i++){
