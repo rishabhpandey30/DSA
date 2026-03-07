@@ -140,6 +140,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0142-linked-list-cycle-ii](https://github.com/rishabhpandey30/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishabhpandey30/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/rishabhpandey30/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhpandey30/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishabhpandey30/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rishabhpandey30/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -181,6 +182,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/rishabhpandey30/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhpandey30/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabhpandey30/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rishabhpandey30/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -368,12 +370,14 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/rishabhpandey30/DSA/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/rishabhpandey30/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/rishabhpandey30/DSA/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/rishabhpandey30/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting
 | Problem Name | Difficulty |
