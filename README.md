@@ -415,6 +415,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0131-palindrome-partitioning](https://github.com/rishabhpandey30/DSA/tree/master/0131-palindrome-partitioning) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rishabhpandey30/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rishabhpandey30/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rishabhpandey30/DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/rishabhpandey30/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rishabhpandey30/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -438,6 +439,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0090-subsets-ii](https://github.com/rishabhpandey30/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rishabhpandey30/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/rishabhpandey30/DSA/tree/master/0216-combination-sum-iii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rishabhpandey30/DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rishabhpandey30/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
