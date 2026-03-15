@@ -416,6 +416,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishabhpandey30/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/rishabhpandey30/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/rishabhpandey30/DSA/tree/master/0131-palindrome-partitioning) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rishabhpandey30/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
