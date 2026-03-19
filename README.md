@@ -252,6 +252,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0029-divide-two-integers](https://github.com/rishabhpandey30/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/rishabhpandey30/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rishabhpandey30/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/rishabhpandey30/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/rishabhpandey30/DSA/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabhpandey30/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rishabhpandey30/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -318,6 +319,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0045-jump-game-ii](https://github.com/rishabhpandey30/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rishabhpandey30/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/rishabhpandey30/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/rishabhpandey30/DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhpandey30/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/rishabhpandey30/DSA/tree/master/0131-palindrome-partitioning) |
@@ -564,4 +566,8 @@ This repository is more than just code — it’s a public commitment to persona
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/rishabhpandey30/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/rishabhpandey30/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
