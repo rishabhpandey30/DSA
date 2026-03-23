@@ -413,6 +413,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0020-valid-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rishabhpandey30/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/rishabhpandey30/DSA/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/rishabhpandey30/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/rishabhpandey30/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/rishabhpandey30/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/rishabhpandey30/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -512,6 +513,7 @@ This repository is more than just code — it’s a public commitment to persona
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/rishabhpandey30/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishabhpandey30/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -519,6 +521,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rishabhpandey30/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishabhpandey30/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -531,6 +534,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rishabhpandey30/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishabhpandey30/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
