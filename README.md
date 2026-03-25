@@ -195,6 +195,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0503-next-greater-element-ii](https://github.com/rishabhpandey30/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhpandey30/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabhpandey30/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/rishabhpandey30/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rishabhpandey30/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/rishabhpandey30/DSA/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/rishabhpandey30/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -419,6 +420,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0094-binary-tree-inorder-traversal](https://github.com/rishabhpandey30/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/rishabhpandey30/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/rishabhpandey30/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/rishabhpandey30/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/rishabhpandey30/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -481,6 +483,7 @@ This repository is more than just code — it’s a public commitment to persona
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/rishabhpandey30/DSA/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/rishabhpandey30/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhpandey30/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/rishabhpandey30/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishabhpandey30/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
