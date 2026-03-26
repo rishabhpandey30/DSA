@@ -225,6 +225,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1980-find-unique-binary-string](https://github.com/rishabhpandey30/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishabhpandey30/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2047-find-a-peak-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/2047-find-a-peak-element-ii) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishabhpandey30/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhpandey30/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2906-construct-product-matrix](https://github.com/rishabhpandey30/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishabhpandey30/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -458,6 +459,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rishabhpandey30/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rishabhpandey30/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rishabhpandey30/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishabhpandey30/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rishabhpandey30/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/rishabhpandey30/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
