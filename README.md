@@ -98,6 +98,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishabhpandey30/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rishabhpandey30/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/rishabhpandey30/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhpandey30/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -225,6 +226,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1980-find-unique-binary-string](https://github.com/rishabhpandey30/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishabhpandey30/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2047-find-a-peak-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/2047-find-a-peak-element-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/rishabhpandey30/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishabhpandey30/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhpandey30/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2906-construct-product-matrix](https://github.com/rishabhpandey30/DSA/tree/main/2906-construct-product-matrix/) | Medium |
@@ -463,6 +465,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rishabhpandey30/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rishabhpandey30/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rishabhpandey30/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/rishabhpandey30/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishabhpandey30/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rishabhpandey30/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rishabhpandey30/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
