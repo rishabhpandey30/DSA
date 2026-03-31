@@ -126,6 +126,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishabhpandey30/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishabhpandey30/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2974-minimum-number-game](https://github.com/rishabhpandey30/DSA/tree/main/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/rishabhpandey30/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rishabhpandey30/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Merge Sort
@@ -232,6 +233,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2906-construct-product-matrix](https://github.com/rishabhpandey30/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishabhpandey30/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rishabhpandey30/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2974-minimum-number-game](https://github.com/rishabhpandey30/DSA/tree/main/2974-minimum-number-game/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rishabhpandey30/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/rishabhpandey30/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/rishabhpandey30/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -381,6 +383,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0023-merge-k-sorted-lists](https://github.com/rishabhpandey30/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabhpandey30/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rishabhpandey30/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2974-minimum-number-game](https://github.com/rishabhpandey30/DSA/tree/main/2974-minimum-number-game/) | Easy |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/rishabhpandey30/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rishabhpandey30/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishabhpandey30/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -496,6 +499,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0735-asteroid-collision](https://github.com/rishabhpandey30/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhpandey30/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rishabhpandey30/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2974-minimum-number-game](https://github.com/rishabhpandey30/DSA/tree/main/2974-minimum-number-game/) | Easy |
 | [3379-transformed-array](https://github.com/rishabhpandey30/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishabhpandey30/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
