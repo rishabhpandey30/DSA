@@ -272,6 +272,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1015-smallest-integer-divisible-by-k](https://github.com/rishabhpandey30/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rishabhpandey30/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/rishabhpandey30/DSA/tree/master/1390-four-divisors) |
+| [1486-xor-operation-in-an-array](https://github.com/rishabhpandey30/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rishabhpandey30/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1922-count-good-numbers](https://github.com/rishabhpandey30/DSA/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/rishabhpandey30/DSA/tree/master/1925-count-square-sum-triples) |
@@ -295,6 +296,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0231-power-of-two](https://github.com/rishabhpandey30/DSA/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/rishabhpandey30/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rishabhpandey30/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1486-xor-operation-in-an-array](https://github.com/rishabhpandey30/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/rishabhpandey30/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
