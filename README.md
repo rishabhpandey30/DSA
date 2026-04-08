@@ -485,6 +485,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rishabhpandey30/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rishabhpandey30/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/rishabhpandey30/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3019-number-of-changing-keys](https://github.com/rishabhpandey30/DSA/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 | Problem Name | Difficulty |
