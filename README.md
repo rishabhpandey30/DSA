@@ -108,6 +108,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/rishabhpandey30/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabhpandey30/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rishabhpandey30/DSA/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0142-linked-list-cycle-ii](https://github.com/rishabhpandey30/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishabhpandey30/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rishabhpandey30/DSA/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/rishabhpandey30/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhpandey30/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishabhpandey30/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -406,6 +408,7 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishabhpandey30/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhpandey30/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rishabhpandey30/DSA/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rishabhpandey30/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rishabhpandey30/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -472,6 +475,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0058-length-of-last-word](https://github.com/rishabhpandey30/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/rishabhpandey30/DSA/tree/master/0131-palindrome-partitioning) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rishabhpandey30/DSA/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/rishabhpandey30/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rishabhpandey30/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rishabhpandey30/DSA/tree/master/0944-delete-columns-to-make-sorted) |
