@@ -557,6 +557,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rishabhpandey30/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/0110-balanced-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/rishabhpandey30/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishabhpandey30/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -565,6 +566,7 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rishabhpandey30/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/0110-balanced-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/rishabhpandey30/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishabhpandey30/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -578,6 +580,7 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rishabhpandey30/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/0110-balanced-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/rishabhpandey30/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishabhpandey30/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -622,4 +625,12 @@ This repository is more than just code — it’s a public commitment to persona
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/rishabhpandey30/DSA/tree/main/0070-climbing-stairs/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/rishabhpandey30/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/rishabhpandey30/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
