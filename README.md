@@ -240,6 +240,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rishabhpandey30/DSA/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/rishabhpandey30/DSA/tree/main/2906-construct-product-matrix/) | Medium |
+| [2942-find-words-containing-character](https://github.com/rishabhpandey30/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishabhpandey30/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rishabhpandey30/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2974-minimum-number-game](https://github.com/rishabhpandey30/DSA/tree/main/2974-minimum-number-game/) | Easy |
@@ -491,6 +492,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rishabhpandey30/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishabhpandey30/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rishabhpandey30/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2942-find-words-containing-character](https://github.com/rishabhpandey30/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rishabhpandey30/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/rishabhpandey30/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3019-number-of-changing-keys](https://github.com/rishabhpandey30/DSA/tree/main/3019-number-of-changing-keys/) | Easy |
