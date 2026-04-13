@@ -288,6 +288,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rishabhpandey30/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/rishabhpandey30/DSA/tree/main/2652-sum-multiples/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/rishabhpandey30/DSA/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rishabhpandey30/DSA/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rishabhpandey30/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishabhpandey30/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
