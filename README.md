@@ -166,6 +166,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabhpandey30/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rishabhpandey30/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rishabhpandey30/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
 | Problem Name | Difficulty |
@@ -266,6 +267,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabhpandey30/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3640-trionic-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3640-trionic-array-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rishabhpandey30/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rishabhpandey30/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 | Problem Name | Difficulty |
@@ -297,6 +299,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rishabhpandey30/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabhpandey30/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/rishabhpandey30/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rishabhpandey30/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/rishabhpandey30/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
