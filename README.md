@@ -98,6 +98,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0142-linked-list-cycle-ii](https://github.com/rishabhpandey30/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rishabhpandey30/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishabhpandey30/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/rishabhpandey30/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rishabhpandey30/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rishabhpandey30/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhpandey30/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -227,6 +228,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1590-make-sum-divisible-by-p](https://github.com/rishabhpandey30/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1646-kth-missing-positive-number](https://github.com/rishabhpandey30/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rishabhpandey30/DSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/rishabhpandey30/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rishabhpandey30/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rishabhpandey30/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rishabhpandey30/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -342,6 +344,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rishabhpandey30/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/rishabhpandey30/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1646-kth-missing-positive-number](https://github.com/rishabhpandey30/DSA/tree/master/1646-kth-missing-positive-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/rishabhpandey30/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rishabhpandey30/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
