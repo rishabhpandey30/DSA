@@ -199,6 +199,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabhpandey30/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/rishabhpandey30/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
+| [0396-rotate-function](https://github.com/rishabhpandey30/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/rishabhpandey30/DSA/tree/main/0496-next-greater-element-i/) | Easy |
@@ -284,6 +285,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0066-plus-one](https://github.com/rishabhpandey30/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/rishabhpandey30/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/rishabhpandey30/DSA/tree/master/0231-power-of-two) |
+| [0396-rotate-function](https://github.com/rishabhpandey30/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabhpandey30/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rishabhpandey30/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rishabhpandey30/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -366,6 +368,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhpandey30/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/rishabhpandey30/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0152-maximum-product-subarray) |
+| [0396-rotate-function](https://github.com/rishabhpandey30/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rishabhpandey30/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0907-sum-of-subarray-minimums](https://github.com/rishabhpandey30/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
