@@ -245,6 +245,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhpandey30/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rishabhpandey30/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rishabhpandey30/DSA/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/rishabhpandey30/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2942-find-words-containing-character](https://github.com/rishabhpandey30/DSA/tree/main/2942-find-words-containing-character/) | Easy |
@@ -540,6 +541,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0735-asteroid-collision](https://github.com/rishabhpandey30/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/rishabhpandey30/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhpandey30/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rishabhpandey30/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2974-minimum-number-game](https://github.com/rishabhpandey30/DSA/tree/main/2974-minimum-number-game/) | Easy |
 | [3379-transformed-array](https://github.com/rishabhpandey30/DSA/tree/master/3379-transformed-array) |
