@@ -195,6 +195,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0090-subsets-ii](https://github.com/rishabhpandey30/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhpandey30/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabhpandey30/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhpandey30/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabhpandey30/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/rishabhpandey30/DSA/tree/master/0216-combination-sum-iii) |
@@ -338,6 +339,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabhpandey30/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhpandey30/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/rishabhpandey30/DSA/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
