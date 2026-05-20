@@ -161,6 +161,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1590-make-sum-divisible-by-p](https://github.com/rishabhpandey30/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishabhpandey30/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/rishabhpandey30/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rishabhpandey30/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/rishabhpandey30/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rishabhpandey30/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishabhpandey30/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -247,6 +248,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rishabhpandey30/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rishabhpandey30/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rishabhpandey30/DSA/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/rishabhpandey30/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2942-find-words-containing-character](https://github.com/rishabhpandey30/DSA/tree/main/2942-find-words-containing-character/) | Easy |
@@ -321,6 +323,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1009-complement-of-base-10-integer](https://github.com/rishabhpandey30/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rishabhpandey30/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1486-xor-operation-in-an-array](https://github.com/rishabhpandey30/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rishabhpandey30/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/rishabhpandey30/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
