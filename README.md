@@ -128,6 +128,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rishabhpandey30/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishabhpandey30/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rishabhpandey30/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishabhpandey30/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2974-minimum-number-game](https://github.com/rishabhpandey30/DSA/tree/main/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/rishabhpandey30/DSA/tree/master/3074-apple-redistribution-into-boxes) |
@@ -244,6 +245,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rishabhpandey30/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rishabhpandey30/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishabhpandey30/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rishabhpandey30/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhpandey30/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rishabhpandey30/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -396,6 +398,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/rishabhpandey30/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rishabhpandey30/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rishabhpandey30/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/rishabhpandey30/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rishabhpandey30/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rishabhpandey30/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
