@@ -234,6 +234,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1590-make-sum-divisible-by-p](https://github.com/rishabhpandey30/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1646-kth-missing-positive-number](https://github.com/rishabhpandey30/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rishabhpandey30/DSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/rishabhpandey30/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rishabhpandey30/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rishabhpandey30/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rishabhpandey30/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -419,6 +420,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1004-max-consecutive-ones-iii](https://github.com/rishabhpandey30/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rishabhpandey30/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/rishabhpandey30/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/rishabhpandey30/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rishabhpandey30/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1895-largest-magic-square](https://github.com/rishabhpandey30/DSA/tree/master/1895-largest-magic-square) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
