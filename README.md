@@ -161,6 +161,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0874-walking-robot-simulation](https://github.com/rishabhpandey30/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rishabhpandey30/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rishabhpandey30/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/rishabhpandey30/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/rishabhpandey30/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishabhpandey30/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/rishabhpandey30/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -499,6 +500,7 @@ This repository is more than just code — it’s a public commitment to persona
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/rishabhpandey30/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -516,6 +518,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0657-robot-return-to-origin](https://github.com/rishabhpandey30/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rishabhpandey30/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rishabhpandey30/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [1189-maximum-number-of-balloons](https://github.com/rishabhpandey30/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rishabhpandey30/DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/rishabhpandey30/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
