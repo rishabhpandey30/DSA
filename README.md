@@ -89,6 +89,7 @@ This repository is more than just code — it’s a public commitment to persona
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishabhpandey30/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/rishabhpandey30/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/rishabhpandey30/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishabhpandey30/DSA/tree/master/0018-4sum) |
@@ -177,6 +178,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/rishabhpandey30/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/rishabhpandey30/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rishabhpandey30/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishabhpandey30/DSA/tree/master/0018-4sum) |
@@ -396,6 +398,7 @@ This repository is more than just code — it’s a public commitment to persona
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/rishabhpandey30/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/rishabhpandey30/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rishabhpandey30/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
