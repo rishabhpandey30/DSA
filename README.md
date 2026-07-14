@@ -709,4 +709,5 @@ This repository is more than just code — it’s a public commitment to persona
 | [1661-average-time-of-process-per-machine](https://github.com/rishabhpandey30/DSA/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/rishabhpandey30/DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/rishabhpandey30/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1934-confirmation-rate](https://github.com/rishabhpandey30/DSA/tree/main/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
