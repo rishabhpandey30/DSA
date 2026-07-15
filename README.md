@@ -396,6 +396,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0410-split-array-largest-sum](https://github.com/rishabhpandey30/DSA/tree/master/0410-split-array-largest-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rishabhpandey30/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0907-sum-of-subarray-minimums](https://github.com/rishabhpandey30/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/rishabhpandey30/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rishabhpandey30/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/rishabhpandey30/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rishabhpandey30/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -530,6 +531,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0657-robot-return-to-origin](https://github.com/rishabhpandey30/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rishabhpandey30/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rishabhpandey30/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [1143-longest-common-subsequence](https://github.com/rishabhpandey30/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/rishabhpandey30/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rishabhpandey30/DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishabhpandey30/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
