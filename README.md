@@ -229,6 +229,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1018-binary-prefix-divisible-by-5](https://github.com/rishabhpandey30/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rishabhpandey30/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/rishabhpandey30/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/rishabhpandey30/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/rishabhpandey30/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rishabhpandey30/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/rishabhpandey30/DSA/tree/master/1390-four-divisors) |
@@ -473,6 +474,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0054-spiral-matrix](https://github.com/rishabhpandey30/DSA/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/rishabhpandey30/DSA/tree/master/0085-maximal-rectangle) |
+| [1260-shift-2d-grid](https://github.com/rishabhpandey30/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rishabhpandey30/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rishabhpandey30/DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rishabhpandey30/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -575,6 +577,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0657-robot-return-to-origin](https://github.com/rishabhpandey30/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/rishabhpandey30/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/rishabhpandey30/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1260-shift-2d-grid](https://github.com/rishabhpandey30/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhpandey30/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rishabhpandey30/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
