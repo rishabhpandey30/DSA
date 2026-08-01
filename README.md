@@ -620,6 +620,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0094-binary-tree-inorder-traversal](https://github.com/rishabhpandey30/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/rishabhpandey30/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/rishabhpandey30/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/rishabhpandey30/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishabhpandey30/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -630,6 +631,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0094-binary-tree-inorder-traversal](https://github.com/rishabhpandey30/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/rishabhpandey30/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/rishabhpandey30/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/rishabhpandey30/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishabhpandey30/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -638,6 +640,7 @@ This repository is more than just code — it’s a public commitment to persona
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/rishabhpandey30/DSA/tree/main/0101-symmetric-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/rishabhpandey30/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishabhpandey30/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -646,6 +649,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0094-binary-tree-inorder-traversal](https://github.com/rishabhpandey30/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/rishabhpandey30/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/rishabhpandey30/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/rishabhpandey30/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishabhpandey30/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhpandey30/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
