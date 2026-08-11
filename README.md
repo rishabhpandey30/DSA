@@ -134,6 +134,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rishabhpandey30/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishabhpandey30/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2974-minimum-number-game](https://github.com/rishabhpandey30/DSA/tree/main/2974-minimum-number-game/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishabhpandey30/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/rishabhpandey30/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rishabhpandey30/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rishabhpandey30/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -169,6 +170,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishabhpandey30/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/rishabhpandey30/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rishabhpandey30/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishabhpandey30/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/rishabhpandey30/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rishabhpandey30/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishabhpandey30/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -271,6 +273,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2974-minimum-number-game](https://github.com/rishabhpandey30/DSA/tree/main/2974-minimum-number-game/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rishabhpandey30/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/rishabhpandey30/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishabhpandey30/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/rishabhpandey30/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rishabhpandey30/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/rishabhpandey30/DSA/tree/master/3074-apple-redistribution-into-boxes) |
