@@ -201,6 +201,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0053-maximum-subarray](https://github.com/rishabhpandey30/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rishabhpandey30/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rishabhpandey30/DSA/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/rishabhpandey30/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/rishabhpandey30/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/rishabhpandey30/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
@@ -478,6 +479,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [0036-valid-sudoku](https://github.com/rishabhpandey30/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/rishabhpandey30/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/rishabhpandey30/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/rishabhpandey30/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0079-word-search](https://github.com/rishabhpandey30/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/rishabhpandey30/DSA/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/rishabhpandey30/DSA/tree/main/1260-shift-2d-grid/) | Easy |
@@ -580,6 +582,7 @@ This repository is more than just code — it’s a public commitment to persona
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/rishabhpandey30/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/rishabhpandey30/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/rishabhpandey30/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/rishabhpandey30/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/rishabhpandey30/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
