@@ -298,6 +298,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rishabhpandey30/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3640-trionic-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3640-trionic-array-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/rishabhpandey30/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishabhpandey30/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishabhpandey30/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rishabhpandey30/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rishabhpandey30/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -352,6 +353,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/rishabhpandey30/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rishabhpandey30/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/rishabhpandey30/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishabhpandey30/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
