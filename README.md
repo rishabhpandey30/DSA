@@ -258,6 +258,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1975-maximum-matrix-sum](https://github.com/rishabhpandey30/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/rishabhpandey30/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishabhpandey30/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2029-stone-game-ix](https://github.com/rishabhpandey30/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2047-find-a-peak-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rishabhpandey30/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rishabhpandey30/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -323,6 +324,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rishabhpandey30/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1922-count-good-numbers](https://github.com/rishabhpandey30/DSA/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/rishabhpandey30/DSA/tree/master/1925-count-square-sum-triples) |
+| [2029-stone-game-ix](https://github.com/rishabhpandey30/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2050-count-good-numbers](https://github.com/rishabhpandey30/DSA/tree/master/2050-count-good-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rishabhpandey30/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -425,6 +427,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rishabhpandey30/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/rishabhpandey30/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/rishabhpandey30/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rishabhpandey30/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rishabhpandey30/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/rishabhpandey30/DSA/tree/master/3074-apple-redistribution-into-boxes) |
@@ -527,6 +530,7 @@ This repository is more than just code — it’s a public commitment to persona
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/rishabhpandey30/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2029-stone-game-ix](https://github.com/rishabhpandey30/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishabhpandey30/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -733,4 +737,20 @@ This repository is more than just code — it’s a public commitment to persona
 | [1683-invalid-tweets](https://github.com/rishabhpandey30/DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/rishabhpandey30/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/rishabhpandey30/DSA/tree/main/1934-confirmation-rate/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/rishabhpandey30/DSA/tree/main/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/rishabhpandey30/DSA/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/rishabhpandey30/DSA/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/rishabhpandey30/DSA/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
