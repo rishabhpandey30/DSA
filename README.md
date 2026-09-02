@@ -308,6 +308,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rishabhpandey30/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rishabhpandey30/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rishabhpandey30/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rishabhpandey30/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,6 +344,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [3676-smallest-number-with-all-set-bits](https://github.com/rishabhpandey30/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rishabhpandey30/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/rishabhpandey30/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rishabhpandey30/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
