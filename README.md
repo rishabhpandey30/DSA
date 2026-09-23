@@ -267,6 +267,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishabhpandey30/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rishabhpandey30/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhpandey30/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rishabhpandey30/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
