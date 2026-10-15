@@ -170,6 +170,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishabhpandey30/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/rishabhpandey30/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rishabhpandey30/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rishabhpandey30/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishabhpandey30/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishabhpandey30/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/rishabhpandey30/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -274,6 +275,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rishabhpandey30/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rishabhpandey30/DSA/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/rishabhpandey30/DSA/tree/main/2906-construct-product-matrix/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rishabhpandey30/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/rishabhpandey30/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishabhpandey30/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rishabhpandey30/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -616,10 +618,12 @@ This repository is more than just code — it’s a public commitment to persona
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rishabhpandey30/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/rishabhpandey30/DSA/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rishabhpandey30/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3454-separate-squares-ii](https://github.com/rishabhpandey30/DSA/tree/master/3454-separate-squares-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishabhpandey30/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Ordered Set
