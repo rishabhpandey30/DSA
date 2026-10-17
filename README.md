@@ -273,6 +273,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rishabhpandey30/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rishabhpandey30/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rishabhpandey30/DSA/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/rishabhpandey30/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rishabhpandey30/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -644,6 +645,7 @@ This repository is more than just code — it’s a public commitment to persona
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/rishabhpandey30/DSA/tree/master/1925-count-square-sum-triples) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rishabhpandey30/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
