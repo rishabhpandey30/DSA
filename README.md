@@ -131,6 +131,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rishabhpandey30/DSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishabhpandey30/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rishabhpandey30/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rishabhpandey30/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishabhpandey30/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2974-minimum-number-game](https://github.com/rishabhpandey30/DSA/tree/main/2974-minimum-number-game/) | Easy |
@@ -263,6 +264,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [2029-stone-game-ix](https://github.com/rishabhpandey30/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2047-find-a-peak-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rishabhpandey30/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rishabhpandey30/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishabhpandey30/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rishabhpandey30/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishabhpandey30/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -397,6 +399,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rishabhpandey30/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rishabhpandey30/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/rishabhpandey30/DSA/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rishabhpandey30/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rishabhpandey30/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3454-separate-squares-ii](https://github.com/rishabhpandey30/DSA/tree/master/3454-separate-squares-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rishabhpandey30/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
