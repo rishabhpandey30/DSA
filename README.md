@@ -337,6 +337,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1925-count-square-sum-triples](https://github.com/rishabhpandey30/DSA/tree/master/1925-count-square-sum-triples) |
 | [2029-stone-game-ix](https://github.com/rishabhpandey30/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2050-count-good-numbers](https://github.com/rishabhpandey30/DSA/tree/master/2050-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/rishabhpandey30/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rishabhpandey30/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishabhpandey30/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/rishabhpandey30/DSA/tree/main/2652-sum-multiples/) | Easy |
@@ -575,6 +576,7 @@ This repository is more than just code — it’s a public commitment to persona
 | [1980-find-unique-binary-string](https://github.com/rishabhpandey30/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rishabhpandey30/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishabhpandey30/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2409-count-days-spent-together](https://github.com/rishabhpandey30/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rishabhpandey30/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rishabhpandey30/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/rishabhpandey30/DSA/tree/main/2942-find-words-containing-character/) | Easy |
